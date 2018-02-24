@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --content-base dist/ --host 0.0.0.0"
+    "start": "(npm run start-psc &) && webpack-dev-server --content-base dist/ --host 0.0.0.0",
+    "start-psc" : "pulp --watch build"
   },
   "dependencies": {
     "babel": "^6.23.0",
