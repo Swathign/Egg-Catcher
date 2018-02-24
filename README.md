@@ -12,11 +12,11 @@ $ bower i
 ```
 
 
-###Getting Started
+### Getting Started
 ```
 $ npm start
 ```
-
 Open http://localhost:8080 in your browser
+
 ## Preview
-![Alt Text](EggCatcher.gif)
+![Alt Text](EggCatcher-Gif.gif)
