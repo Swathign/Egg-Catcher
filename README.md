@@ -1,7 +1,8 @@
-### Egg Catcher
+# Egg Catcher
 
 Play Game here : https://github.com/Swathign/Egg-Catcher
 
+## Getting Started
 ### Cloning the repository 
 ```
 git clone https://github.com/Swathign/Egg-Catcher.git
