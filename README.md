@@ -13,7 +13,7 @@ $ bower i
 ```
 
 
-### Getting Started
+### Running the Project
 ```
 $ npm start
 ```
